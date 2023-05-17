@@ -1,1 +1,3 @@
-# Fast_FP_Pico_NEAT
+# Fast FP - Pico NEAT
+
+Source code will be published in March 2024.
